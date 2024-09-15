@@ -40,7 +40,7 @@ The project uses the EMNIST Balanced dataset, which contains images of handwritt
    - **Dense (256 units, ReLU):** High-level feature representation.
    - **Dense (47 units, Softmax):** Classifies into 47 categories.
 
-   The model is designed to effectively learn and classify handwritten characters through a combination of feature extraction and classification layers.
+   The model is designed to effectively learn and classify handwritten characters through feature extraction and classification layers.
 
 4. **Evaluation:**
    - The trained model is evaluated on the test dataset, achieving an accuracy of approximately 89%.
@@ -54,6 +54,6 @@ The project uses the EMNIST Balanced dataset, which contains images of handwritt
 - **Test Accuracy:** The model achieves an accuracy of approximately 89% on the test dataset.
 - **Visualizations:** Accuracy and loss plots for training and validation data are provided.
 
-## License
+## Contributing
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Contributions are always welcome! It would be greatly appreciated if you can help create a UI for this project.
